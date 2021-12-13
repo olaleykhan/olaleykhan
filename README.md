@@ -1,4 +1,14 @@
 ### Hi there 👋
+My name is Abdullah Olalekan. A software Engineer based in lagos Nigeria. My focus is currently mostly on the frontend. I am gradually transitioning to the backend. cheers. 
+
+Here is a link to my;
+Portfolio: https://www.lekan.dev/
+Blog: https://blog.lekan.dev/
+Linkedin: https://www.linkedin.com/in/olalekan-abdulfatah-a8112198/
+
+
+side note: this is the first edit and I will continuosly work on this. should be rteady by the end of the month. that is well, NEW YEAR.. 
+I guess, happy new Year in ADV!!!
 
 <!--
 **olaleykhan/olaleykhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
