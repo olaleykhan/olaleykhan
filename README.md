@@ -16,7 +16,7 @@ I guess, happy new Year in ADV!!! -->
 
 
 
-<div style="display:flex;justify-content:center;width:100%" href="#"><img width="auto" height="250px" src="https://lh3.googleusercontent.com/ocXCrvp3s2fc5RxH05BPAKnW1Q0tcjEZoUcjQacpat19rvqi--3QH7LI-zChFHVUsCnwd-pAPTeiggRMvX4krivNXsgGYzgRE-2pop57BbCaOLGvkBbu4w1IPkvoi4IjTNlQEjL4v4VL6YTcEUFpi7zYMlppVZICGOfWgrGYZ4qHeQYjbOuj2qNHBIJEaV4ndmZo10iKCYIGpwowdmBFkpISGjQYKK6uXT1KK-T1_fZ8DpH9bkoyzF_Y328RkcDOCwWbmDgaiInZA7Xy5FdTbXU_amGussm7iESLr2GUBjgEccME6jXOhKccUIBLbvEmgB7X7u87BuXlMrdpENRIRJBy7zNSKF_QXCktB8C6DdDsbjTyDAhj4DX00ejy5MAil5I_gtcd8kr2-eDvz4iVm5a7wLHlhELqlCpda2mE6_vWEaa1a1PsRqygCgSM5X3JofjlT-BwqCpTn04BO_eFcM1cwbc17ikmR4GKAjckqA19cYZEhDPO9PxSZ5IyrDL7ceiUeN2_JtkQDm6fzUtaP8n5nFkcWsNqW4-38H4C3BRDeZdc5Ycwj3Yu8_YPqhOsqRSHqeWio-iw94jXcUG6ubkUNZh527aQT6rZ8mdah6vUJkDW2bIk2gRvue3fA5q3S4o83r1lZOEEuX7x1Z3xb_BPaxv3HkSw0nsYXUjhGlNq1olgGYZ4Q-uza-9BBSQW7CMDYbU3xlPdI-DCjaJA76vFaw=w1087-h990-no?authuser=0" height="175px"/></div> 
+<div align="center" href="#"><img width="auto" height="250px" src="https://lh3.googleusercontent.com/ocXCrvp3s2fc5RxH05BPAKnW1Q0tcjEZoUcjQacpat19rvqi--3QH7LI-zChFHVUsCnwd-pAPTeiggRMvX4krivNXsgGYzgRE-2pop57BbCaOLGvkBbu4w1IPkvoi4IjTNlQEjL4v4VL6YTcEUFpi7zYMlppVZICGOfWgrGYZ4qHeQYjbOuj2qNHBIJEaV4ndmZo10iKCYIGpwowdmBFkpISGjQYKK6uXT1KK-T1_fZ8DpH9bkoyzF_Y328RkcDOCwWbmDgaiInZA7Xy5FdTbXU_amGussm7iESLr2GUBjgEccME6jXOhKccUIBLbvEmgB7X7u87BuXlMrdpENRIRJBy7zNSKF_QXCktB8C6DdDsbjTyDAhj4DX00ejy5MAil5I_gtcd8kr2-eDvz4iVm5a7wLHlhELqlCpda2mE6_vWEaa1a1PsRqygCgSM5X3JofjlT-BwqCpTn04BO_eFcM1cwbc17ikmR4GKAjckqA19cYZEhDPO9PxSZ5IyrDL7ceiUeN2_JtkQDm6fzUtaP8n5nFkcWsNqW4-38H4C3BRDeZdc5Ycwj3Yu8_YPqhOsqRSHqeWio-iw94jXcUG6ubkUNZh527aQT6rZ8mdah6vUJkDW2bIk2gRvue3fA5q3S4o83r1lZOEEuX7x1Z3xb_BPaxv3HkSw0nsYXUjhGlNq1olgGYZ4Q-uza-9BBSQW7CMDYbU3xlPdI-DCjaJA76vFaw=w1087-h990-no?authuser=0" height="175px"/></div> 
 
 
 
@@ -34,7 +34,7 @@ I guess, happy new Year in ADV!!! -->
 
 - ⚡ Fun fact **I love outdoor sport activities**
 
-## 🚀 Languages and Tools:
+<!-- ## 🚀 Languages and Tools:
 
 <p align="left"> 
 <!--     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
@@ -54,8 +54,11 @@ I guess, happy new Year in ADV!!! -->
 <!--     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>  -->
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
+</p> -->
 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
@@ -104,24 +107,27 @@ I guess, happy new Year in ADV!!! -->
 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=olaleykhan&label=Profile%20views&color=0e75b6&style=flat" alt="olaleykhan" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olaleykhan" alt="olaleykhan" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/lekan_dev" target="blank"><img src="https://img.shields.io/twitter/follow/lekan_dev?logo=twitter&style=for-the-badge" alt="lekan_dev" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://www.lekan.dev/](https://www.lekan.dev/)
 
+- 📝 I regularly write articles on [https://blog.lekan.dev/](https://blog.lekan.dev/)
 
+- 💬 Ask me about **react, Vue, Javascript, expressJs, Python**
 
+- 📄 Know about my experiences [....](....)
 
-<!--
-**olaleykhan/olaleykhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/lekan_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lekan_dev" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olaleykhan&show_icons=true&locale=en&layout=compact" alt="olaleykhan" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olaleykhan&show_icons=true&locale=en" alt="olaleykhan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olaleykhan&" alt="olaleykhan" /></p>
