@@ -6,6 +6,7 @@ Portfolio: https://www.lekan.dev/
 Blog: https://blog.lekan.dev/
 Linkedin: https://www.linkedin.com/in/olalekan-abdulfatah-a8112198/
 
+https://github-readme-stats.vercel.app/api?username=olaleykhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 
 side note: this is the first edit and I will continuosly work on this. should be rteady by the end of the month. that is well, NEW YEAR.. 
 I guess, happy new Year in ADV!!!
