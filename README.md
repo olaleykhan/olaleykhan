@@ -1,6 +1,6 @@
-### Hi there 👋
-My name is Abdullah Olalekan. A software Engineer based in lagos Nigeria. My focus is currently mostly on the frontend. I am gradually transitioning to the backend. cheers. 
-
+### <h1> ### Hi there 👋, I'm Lekan. </h1>
+A software Engineer based in lagos Nigeria. My focus is currently mostly on the frontend. I am gradually transitioning to the backend. cheers. 
+<!-- 
 Here is a link to my;
 Portfolio: https://www.lekan.dev/
 Blog: https://blog.lekan.dev/
@@ -9,16 +9,16 @@ Linkedin: https://www.linkedin.com/in/olalekan-abdulfatah-a8112198/
 https://github-readme-stats.vercel.app/api?username=olaleykhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 
 side note: this is the first edit and I will continuosly work on this. should be rteady by the end of the month. that is well, NEW YEAR.. 
-I guess, happy new Year in ADV!!!
+I guess, happy new Year in ADV!!! -->
 
 
 
 
 
 
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<a href="#"><img width="100%" height="auto" src="https://lh3.googleusercontent.com/ocXCrvp3s2fc5RxH05BPAKnW1Q0tcjEZoUcjQacpat19rvqi--3QH7LI-zChFHVUsCnwd-pAPTeiggRMvX4krivNXsgGYzgRE-2pop57BbCaOLGvkBbu4w1IPkvoi4IjTNlQEjL4v4VL6YTcEUFpi7zYMlppVZICGOfWgrGYZ4qHeQYjbOuj2qNHBIJEaV4ndmZo10iKCYIGpwowdmBFkpISGjQYKK6uXT1KK-T1_fZ8DpH9bkoyzF_Y328RkcDOCwWbmDgaiInZA7Xy5FdTbXU_amGussm7iESLr2GUBjgEccME6jXOhKccUIBLbvEmgB7X7u87BuXlMrdpENRIRJBy7zNSKF_QXCktB8C6DdDsbjTyDAhj4DX00ejy5MAil5I_gtcd8kr2-eDvz4iVm5a7wLHlhELqlCpda2mE6_vWEaa1a1PsRqygCgSM5X3JofjlT-BwqCpTn04BO_eFcM1cwbc17ikmR4GKAjckqA19cYZEhDPO9PxSZ5IyrDL7ceiUeN2_JtkQDm6fzUtaP8n5nFkcWsNqW4-38H4C3BRDeZdc5Ycwj3Yu8_YPqhOsqRSHqeWio-iw94jXcUG6ubkUNZh527aQT6rZ8mdah6vUJkDW2bIk2gRvue3fA5q3S4o83r1lZOEEuX7x1Z3xb_BPaxv3HkSw0nsYXUjhGlNq1olgGYZ4Q-uza-9BBSQW7CMDYbU3xlPdI-DCjaJA76vFaw=w1087-h990-no?authuser=0" height="175px"/></a> 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1> -->
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
@@ -32,9 +32,9 @@ I guess, happy new Year in ADV!!!
 
 - 👨‍💻 View some of my projects on  **[My Portfolio](https://lekan.dev)**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **analystabdulfatah@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I love outdoor sport activities**
 
 ## 🚀 Languages and Tools:
 
@@ -63,15 +63,15 @@ I guess, happy new Year in ADV!!!
 
 <p align="center">
     <a href="https://github.com/olaleykhan/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=olaleykhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdullah olalekan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=olaleykhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/olaleykhan/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=olaleykhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/olaleykhan/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaleykhan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/olaleykhan/github-readme-stats"><img alt="Abdullah Olalekan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=olaleykhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/olaleykhan/github-readme-stats"><img alt="Abdullah Olalekan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaleykhan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -79,7 +79,7 @@ I guess, happy new Year in ADV!!!
 <br/>
 <br/>
 
-<a href="https://github.com/olaleykhan/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=olaleykhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/olaleykhan/github-readme-activity-graph"><img alt="Abdullah Olalekan's  Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=olaleykhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -87,7 +87,7 @@ I guess, happy new Year in ADV!!!
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/olalekan-abdulfatah-a8112198/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/olaleykhan/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
