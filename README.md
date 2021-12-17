@@ -83,15 +83,4 @@ I guess, happy new Year in ADV!!! -->
 </a>
 <a href="https://github.com/olaleykhan?tab=followers"><img src="https://img.shields.io/github/followers/olaleykhan?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
-
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olaleykhan&label=Profile%20views&color=0e75b6&style=flat" alt="olaleykhan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olaleykhan" alt="olaleykhan" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/lekan_dev" target="blank"><img src="https://img.shields.io/twitter/follow/lekan_dev?logo=twitter&style=for-the-badge" alt="lekan_dev" /></a> </p>
-
