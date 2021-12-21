@@ -86,3 +86,4 @@ I guess, happy new Year in ADV!!! -->
 <p align="left"> <a href="https://twitter.com/lekan_dev" target="blank"><img src="https://img.shields.io/twitter/follow/lekan_dev?logo=twitter&style=for-the-badge" alt="lekan_dev" /></a> </p>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="olalekan-abdulfatah-a8112198" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/olalekan-abdulfatah-a8112198?trk=profile-badge">Olalekan Abdulfatah</a></div>
               
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
