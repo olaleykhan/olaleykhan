@@ -24,8 +24,6 @@ I guess, happy new Year in ADV!!! -->
 
 <!-- - 🔭 I’m currently working on **[...](https://.../)** -->
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 View some of my projects on  **[My Portfolio](https://lekan.dev)**
