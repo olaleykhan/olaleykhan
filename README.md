@@ -1,6 +1,5 @@
 ### <h1> Hi there 👋, I'm Lekan. </h1>
 A software Engineer based in lagos Nigeria. My focus is currently mostly on the frontend. I am gradually transitioning to the backend. cheers. 
-<!-- 
 Here is a link to my;
 Portfolio: https://www.lekan.dev/
 Blog: https://blog.lekan.dev/
