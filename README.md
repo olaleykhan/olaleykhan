@@ -3,7 +3,7 @@ A software Engineer based in lagos Nigeria. My focus is currently mostly on the 
 Here is a link to my;
 Portfolio: https://www.lekan.dev/
 Blog: https://blog.lekan.dev/
-Linkedin: https://www.linkedin.com/in/olalekan-abdulfatah-a8112198/
+Linkedin: https://www.linkedin.com/in/lekan-dev
 
 https://github-readme-stats.vercel.app/api?username=olaleykhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 
