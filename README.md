@@ -8,13 +8,6 @@ Linkedin: https://www.linkedin.com/in/olalekan-abdulfatah-a8112198/
 
 https://github-readme-stats.vercel.app/api?username=olaleykhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 
-side note: this is the first edit and I will continuosly work on this. should be rteady by the end of the month. that is well, NEW YEAR.. 
-I guess, happy new Year in ADV!!! -->
-
-
-
-
-
 
 <div align="center" href="#"><img width="auto" height="250px" src="https://lh3.googleusercontent.com/ocXCrvp3s2fc5RxH05BPAKnW1Q0tcjEZoUcjQacpat19rvqi--3QH7LI-zChFHVUsCnwd-pAPTeiggRMvX4krivNXsgGYzgRE-2pop57BbCaOLGvkBbu4w1IPkvoi4IjTNlQEjL4v4VL6YTcEUFpi7zYMlppVZICGOfWgrGYZ4qHeQYjbOuj2qNHBIJEaV4ndmZo10iKCYIGpwowdmBFkpISGjQYKK6uXT1KK-T1_fZ8DpH9bkoyzF_Y328RkcDOCwWbmDgaiInZA7Xy5FdTbXU_amGussm7iESLr2GUBjgEccME6jXOhKccUIBLbvEmgB7X7u87BuXlMrdpENRIRJBy7zNSKF_QXCktB8C6DdDsbjTyDAhj4DX00ejy5MAil5I_gtcd8kr2-eDvz4iVm5a7wLHlhELqlCpda2mE6_vWEaa1a1PsRqygCgSM5X3JofjlT-BwqCpTn04BO_eFcM1cwbc17ikmR4GKAjckqA19cYZEhDPO9PxSZ5IyrDL7ceiUeN2_JtkQDm6fzUtaP8n5nFkcWsNqW4-38H4C3BRDeZdc5Ycwj3Yu8_YPqhOsqRSHqeWio-iw94jXcUG6ubkUNZh527aQT6rZ8mdah6vUJkDW2bIk2gRvue3fA5q3S4o83r1lZOEEuX7x1Z3xb_BPaxv3HkSw0nsYXUjhGlNq1olgGYZ4Q-uza-9BBSQW7CMDYbU3xlPdI-DCjaJA76vFaw=w1087-h990-no?authuser=0" height="175px"/></div> 
 
@@ -22,12 +15,8 @@ I guess, happy new Year in ADV!!! -->
 
 ## 🙋‍♂️ About Me
 
-<!-- - 🔭 I’m currently working on **[...](https://.../)** -->
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
 - 👨‍💻 View some of my projects on  **[My Portfolio](https://lekan.dev)**
-- 📝 I regularly write articles on **[My Blog](https://blog.lekan.dev/)**
+- 📝 I one in a blue moon write articles on **[My Blog](https://blog.lekan.dev/)**
 
 - 💬 Ask me about **react, Vue, Javascript, expressJs, Python**
 
