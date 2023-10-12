@@ -1,14 +1,14 @@
 ### <h1> Hi there 👋, I'm Lekan. </h1>
 A software Engineer based in lagos Nigeria. My focus is currently mostly on the frontend. I am gradually transitioning to the backend. cheers. 
 Here is a link to my;
-<div><a href="https://blog.lekan.dev/" target="_blank"  >Blog: blog.lekan.dev</a></div>
-<div><a href="https://www.linkedin.com/in/lekan-dev" target="_blank" >LinkedIn: lekan-dev</a></div>
-<div><a href="https://www.lekan.dev/" target="_blank" >Portfolio: Lekan.dev</a></div>
+<div> Blog: <a href="https://blog.lekan.dev/" target="_blank"> blog.lekan.dev</a></div>
+<div>LinkedIn: <a href="https://www.linkedin.com/in/lekan-dev" target="_blank" > lekan-dev</a></div>
+<div>Portfolio: <a href="https://www.lekan.dev/" target="_blank" > Lekan.dev</a></div>
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olaleykhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-<img align="center" src="https://lh3.googleusercontent.com/ocXCrvp3s2fc5RxH05BPAKnW1Q0tcjEZoUcjQacpat19rvqi--3QH7LI-zChFHVUsCnwd-pAPTeiggRMvX4krivNXsgGYzgRE-2pop57BbCaOLGvkBbu4w1IPkvoi4IjTNlQEjL4v4VL6YTcEUFpi7zYMlppVZICGOfWgrGYZ4qHeQYjbOuj2qNHBIJEaV4ndmZo10iKCYIGpwowdmBFkpISGjQYKK6uXT1KK-T1_fZ8DpH9bkoyzF_Y328RkcDOCwWbmDgaiInZA7Xy5FdTbXU_amGussm7iESLr2GUBjgEccME6jXOhKccUIBLbvEmgB7X7u87BuXlMrdpENRIRJBy7zNSKF_QXCktB8C6DdDsbjTyDAhj4DX00ejy5MAil5I_gtcd8kr2-eDvz4iVm5a7wLHlhELqlCpda2mE6_vWEaa1a1PsRqygCgSM5X3JofjlT-Bwq
+<img align="center" src="https://lh3.googleusercontent.com/ocXCrvp3s2fc5RxH05BPAKnW1Q0tcjEZoUcjQacpat19rvqi--3QH7LI-zChFHVUsCnwd-pAPTeiggRMvX4krivNXsgGYzgRE-2pop57BbCaOLGvkBbu4w1IPkvoi4IjTNlQEjL4v4VL6YTcEUFpi7zYMlppVZICGOfWgrGYZ4qHeQYjbOuj2qNHBIJEaV4ndmZo10iKCYIGpwowdmBFkpISGjQYKK6uXT1KK-T1_fZ8DpH9bkoyzF_Y328RkcDOCwWbmDgaiInZA7Xy5FdTbXU_amGussm7iESLr2GUBjgEccME6jXOhKccUIBLbvEmgB7X7u87BuXlMrdpENRIRJBy7zNSKF_QXCktB8C6DdDsbjTyDAhj4DX00ejy5MAil5I_gtcd8kr2-eDvz4iVm5a7wLHlhELqlCpda2mE6_vWEaa1a1PsRqygCgSM5X3JofjlT-BwqCpTn04BO_eFcM1cwbc17ikmR4GKAjckqA19cYZEhDPO9PxSZ5IyrDL7ceiUeN2_JtkQDm6fzUtaP8n5nFkcWsNqW4-38H4C3BRDeZdc5Ycwj3Yu8_YPqhOsqRSHqeWio-iw94jXcUG6ubkUNZh527aQT6rZ8mdah6vUJkDW2bIk2gRvue3fA5q3S4o83r1lZOEEuX7x1Z3xb_BPaxv3HkSw0nsYXUjhGlNq1olgGYZ4Q-uza-9BBSQW7CMDYbU3xlPdI-DCjaJA76vFaw=w1087-h990-no?authuser=0" width="auto" height="175px">
 
 
 ## 🙋‍♂️ About Me
