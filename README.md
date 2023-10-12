@@ -8,7 +8,7 @@ Here is a link to my;
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olaleykhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-![my personal brand](https://drive.google.com/file/d/1ff0fD25x18_mlmrwwZWCdSpAHHpB-4Q9/view?usp=sharing)
+![my personal brand](https://imgur.com/a/i2ec9Df)
 
 ## 🙋‍♂️ About Me
 
