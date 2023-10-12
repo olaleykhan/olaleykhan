@@ -8,8 +8,7 @@ Here is a link to my;
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olaleykhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-![my personal brand](https://lh3.googleusercontent.com/fife/AK0iWDx_n4n_aRIhCyOW9cz5EgN8mAS0ACI-fBdFrHChTnGmX_fR1Uuw_zMHt4KFt2wO_ylFbcUXMqBgfsclDnTdHNj8xl1szU2KCCQoQgDVtF4u39LDhRPOHz_b4E8Iu4HpF-Ln2vIhE16VnOCSypw7micXzqk9QB5AP0nzDqqgCSXlGwSyN1840dQmMizmAkLIAy16kzWxw3YvhnT_WGGLyPs16tk4OPqt5fip16QzrDz0KTmBqNsMl3cXtGVGl7XqJANXROAuSlxcv7EefbBeHoFUick-8GJpU_m-Yj_MElhysmxLNp69yXIo4kx5SFOz2YWrKQX38kA_wB7sKzt0bVT-sbRnQXAGPOi8efbh-7V7m3PGsZopfU8mQ2-eBG1eieRwuO83DUY_AdnpV3bITgyLd0K1YWfwj2WTXX4NEEiPRpnb03kpWkqMmIRB0Blm4zd4A4sSekru_p592wSwph3L5WGCNnKXYiWHJ6zHvmdtG_Rk3Us7mlXI_wqf3JNCUXNjzFZIG4SehZ54Gb5ERNeUm3RLdDFEYwS6Z0Kv7kmanEMpn-xoEv9nFF6PjwprsT4fXEnwy7I57BKlg7V1HYOk8cIOusbwqjXeqX-9qPOQR_-judzCmXDMbZopehwSXWZ2yOcMFjeQEh0ksf-47XNsfqtQg-12kS2e9r2oo6agSCpH4MAyxw_zyn1tWOoS_40vwmeVKmZaCbNPWgnzNwWd4Or1No_fqa8ADoRCFxXlM7lkLHcyKW4VKp1rRgWvfChd0CSri5ZnMf8uq7qYmwOE43F_7ThbX6ZpiH-IQUf-zyWjf2FURTHXgTHl7jJ7Hi2tQcC6PRn2Z3m1iOI1JAt36OZibS3YEJDIND32148abMT-J5oxusygVfhBrD_9NIUUMx1KHL56Qn7Z1GNzbhbDEw_8rsLHiHfNgPLo6nNcX-PoyOc8d_hMUouOZXQVXTErli6RvY-LsHTH2R6HcLHD1P8ViTbvP9f3uaeaZplL7DY55iqDsW0WBn-387zVvOsZ4jVI4ugo0oJ-g8vIF88wNEJe5P76Ib87ZT_NOP7TLMRKqHh_WWcaxy3jtRp8CGPIOJ0OlTkyQBioHmhuQ9KRAZbuWgVmreLbv0lH_8dxbG6n1SFIaPFFkDR1QzbIk4EMvWdBooq4bdB3hb2YpqwMZoBwqvSzersBkxGXtUlK3KTWYBM8w3fel1PFIrOePibdp4rMCr7zWNChKayapX6TJQ7-csfVI9K6nMl0M5woolhML1fmFTTPDBm4N4rBAOsQMR-mvlSrvUb7wI7k2Y1LXw3v9yw1CoFKCRrGYLb8xLkAVuvvBmIpVDCynrEhV-aajzV4uLwj6BVS8WWtBaB-EBQga2yiKZIzxYiZWmPzDkWNP3C8SXNU55sJ1FVFHkOHMWJCxjdDsrHFU65fdDFXOb-BCc0OQRuV3UfnvbnXCo7_9DWXkXhI4l01ruyT4syF2Omjps2xdKHMnY4nEIYJZ4RmsXFveN5h5tc9Ajgu4smeTt9T47HHVaJZBqIgosRm-bWYQ6R5hS1judLFVXqZFXFSPSXqeNcHIonfOsNr-Y1-w4isiluP0lHGXwxHkHDEiSEJIJZ9dM4otzu4H3xgFGXF-iAW6HI0AYCI10I5aCFGEof_owX50IDAK9pL7AQn4VlR79-e_in78PnyfPgST3nfLwPq-UOeYwM8xoB8g1anDykf8gyr6W_9kuWGMDwrAB5yoLMMeR9aN7caNw-fDfv2WJpBMj_bKzmAegN7XfUBl-ZO2H6YFlc3aAuAnbfXLp2MjkZeXSseLCiEsEiypsx6rw7Zpa2zzSImVJiYzY_8ROgC0nbrTBLZShd-2FdYvKgSuSXkiR_M174-IMWMNzf3r5NmP4Gu3N-4XqYKfxT-iAGZCBO9wPCkYGLSFlb4URMnAxthoiWURynSQ2z92T0TnaeVjwR4OJm-4a8GM3_ie-BON0ngNZiz5CNIQfrlie-lcfrmg9lGpoOjDlNegF1CB8qnXQi3srpq1YdgKxrVJhYiamJZme09DF9PvcwcOYk7IEXdCkNxyFWDiCUhkCbX8RH9Wxbl3ZDHF8Ug1PEGDogYl09uf8a__vfWQLBOMG101aFcfpJjQNsG5qHK95dx-vaJ7ICFWFAaINdNSJYCbajcWs8=s1087-w1087-h990-no?authuser=0)
-
+![my personal brand](https://drive.google.com/file/d/1ff0fD25x18_mlmrwwZWCdSpAHHpB-4Q9/view?usp=sharing)
 
 ## 🙋‍♂️ About Me
 
@@ -40,14 +39,6 @@ Here is a link to my;
   <a href="https://github.com/olaleykhan/github-readme-stats"><img alt="Abdullah Olalekan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaleykhan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/olaleykhan/github-readme-activity-graph"><img alt="Abdullah Olalekan's  Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=olaleykhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=olaleykhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph">
 
 
 <br/>
