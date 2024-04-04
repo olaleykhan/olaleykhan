@@ -2,9 +2,6 @@
 A software Engineer based in lagos Nigeria. My focus is currently mostly on the frontend. I am gradually transitioning to the backend. cheers. 
 Here is a link to my;
 <div> Blog: <a href="https://blog.lekan.dev/" target="_blank"> blog.lekan.dev</a></div>
-<div>LinkedIn: <a href="https://www.linkedin.com/in/lekan-dev" target="_blank" > lekan-dev</a></div>
-<div>Portfolio: <a href="https://www.lekan.dev/" target="_blank" > Lekan.dev</a></div>
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olaleykhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
@@ -46,7 +43,6 @@ Here is a link to my;
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/olalekan-abdulfatah-a8112198/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/olaleykhan/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
