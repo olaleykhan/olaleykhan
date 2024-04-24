@@ -3,7 +3,7 @@ A software Engineer based in lagos Nigeria. My focus is currently mostly on the 
 Here is a link to my;
 <div> Blog: <a href="https://blog.lekan.dev/" target="_blank"> blog.lekan.dev</a></div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olaleykhan&&show_icons=true&title_color=000&icon_color=bb2acf&text_color=000&bg_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olaleykhan&&show_icons=true&title_color=000&icon_color=#639a30&text_color=000&bg_color=ffffff)
 
 
 ## 🙋‍♂️ About Me
@@ -18,12 +18,12 @@ Here is a link to my;
 
 
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 <br/>
 
 <p align="center">
     <a href="https://github.com/olaleykhan/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdullah olalekan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=olaleykhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdullah olalekan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=olaleykhan&theme=black-ice&hide_border=true&stroke=0000&background=#639a30"/>
     </a>
 </p>
 
