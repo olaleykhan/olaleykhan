@@ -3,7 +3,7 @@ A software Engineer based in lagos Nigeria. My focus is currently mostly on the 
 Here is a link to my;
 <div> Blog: <a href="https://blog.lekan.dev/" target="_blank"> blog.lekan.dev</a></div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olaleykhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olaleykhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=ccc&bg_color=ffffff)
 
 
 ## 🙋‍♂️ About Me
@@ -27,8 +27,6 @@ Here is a link to my;
     </a>
 </p>
 
-
-## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/olaleykhan/github-readme-stats"><img alt="Abdullah Olalekan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=olaleykhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
