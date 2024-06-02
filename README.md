@@ -59,8 +59,8 @@ About me: I really do write React, Vue and Svelte. That is an advantage.
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> Code is like humor. When you have to explain it, it’s bad.
 
-<div align="center">
-  <img src="https://github.com/olaleykhan/olaleykhan/assets/53246916/e6c7b3e0-34d6-4127-bb0b-59735b83e475" alt="Olalekan: lekan.dev" style="width:100%;">
+<div align="center" >
+  <img src="https://github.com/olaleykhan/olaleykhan/assets/53246916/e6c7b3e0-34d6-4127-bb0b-59735b83e475" alt="Olalekan: lekan.dev" style="height:400px;">
 </div>
