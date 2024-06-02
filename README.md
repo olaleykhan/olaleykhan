@@ -11,8 +11,8 @@ About me: I really do write React, Vue and Svelte. That is an advantage.
 Open to fullstack roles as I am a beast with expressJs
 
 ### Connect with me:
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/lekan_dev)
+[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail&logoColor=white)](mailto:analystabdulfatah@gmail.com)
 [![Website](https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome&logoColor=white)](https://lekan.dev)
 [![Blog](https://img.shields.io/badge/Blog-blue?style=flat&logo=hashnode&logoColor=white)](https://blog.lekan.dev)
 
