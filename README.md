@@ -7,6 +7,7 @@
 ## Senior Frontend Engineer | Fullstack Developer
 
 About me: I really do write React, Vue and Svelte. That is an advantage.
+I am open to fullstack roles as I am a beast with expressJs
 
 ### Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
