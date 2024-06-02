@@ -1,42 +1,54 @@
-![Header](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![Header](https://user-images.githubusercontent.com/73380218/141421311-d06d3d92-c490-45be-912d-62b44ed1911b.png)
 
-### Hi there 👋, I'm Lekan
+# Hi there, I'm Olaleykhan 👋
 
-#### A software engineer based in Lagos, Nigeria. Focused on frontend development and transitioning to backend. Cheers!
+## Experienced Frontend Developer
 
-[![Blog](https://img.shields.io/badge/Blog-blog.lekan.dev-0D1117?style=for-the-badge&logo=ghost)](https://blog.lekan.dev/)
+I'm a passionate frontend developer with over 5 years of experience in creating stunning and responsive web applications. I specialize in using modern web technologies to build efficient and scalable solutions.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olaleykhan&show_icons=true&theme=tokyonight)
+### Connect with me:
 
-## 🙋‍♂️ About Me
-- 📝 Occasionally write articles on [My Blog](https://blog.lekan.dev/)
-- 💬 Ask me about **JavaScript/TypeScript, Node, Python, Go**
-- 📫 Reach me at **analystabdulfatah@gmail.com**
-- ⚡ Fun fact: I love outdoor sports
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-![Skills](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
+## 🛠️ Skills
 
-### Skills
-![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olaleykhan&show_icons=true&theme=tokyonight" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaleykhan&layout=compact&theme=tokyonight" width="335">
-</p>
+## 🔥 Projects
 
-### Connect with Me
-<p align="left">
-  <a href="https://twitter.com/lekan_dev" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
-  </a>
-  <a href="https://www.instagram.com/olaleykhan/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
-  </a>
-</p>
+### [Project One](https://github.com/yourusername/project-one)
+A brief description of project one goes here. This project demonstrates...
 
-![Footer](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
+### [Project Two](https://github.com/yourusername/project-two)
+A brief description of project two goes here. This project demonstrates...
+
+### [Project Three](https://github.com/yourusername/project-three)
+A brief description of project three goes here. This project demonstrates...
+
+## 📊 GitHub Stats
+
+![Olaleykhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olaleykhan&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olaleykhan&layout=compact&theme=radical)
+
+## 📫 Contact
+
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+
+---
+
+> "Your favorite quote or tagline goes here."
+
+Thank you for visiting my profile!
+
+![Footer](https://user-images.githubusercontent.com/73380218/141421311-d06d3d92-c490-45be-912d-62b44ed1911b.png)
