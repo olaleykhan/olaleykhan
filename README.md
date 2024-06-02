@@ -6,7 +6,7 @@
 
 ## Senior Frontend Engineer | Fullstack Developer
 
-I'm a passionate frontend developer with over 5 years of experience in creating stunning and responsive web applications. I specialize in using modern web technologies to build efficient and scalable solutions.
+About me: I really do write React, Vue and Svelte. That is an advantage.
 
 ### Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
