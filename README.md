@@ -1,4 +1,4 @@
-![Header](https://your-image-url-here.com)
+![Header](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
 
 ### Hi there 👋, I'm Lekan
 #### A software engineer based in Lagos, Nigeria. Currently focused on frontend development and gradually transitioning to backend. Cheers!
@@ -13,7 +13,7 @@
 - 📫 Reach me at **analystabdulfatah@gmail.com**
 - ⚡ Fun fact: I love outdoor sports
 
-![About Me](https://your-image-url-here.com/about-me.jpg)
+![Skills](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 
 ### Skills
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
@@ -22,17 +22,12 @@
 [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)](#)
 [![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](#)
 
-![Skills](https://your-image-url-here.com/skills.jpg)
-
-## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=olaleykhan&show_icons=true&theme=radical" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaleykhan&layout=compact&theme=radical" width="335">
 </p>
 
-![Stats](https://your-image-url-here.com/stats.jpg)
-
-## Connect with Me
+### Connect with Me
 <p align="left">
   <a href="https://twitter.com/lekan_dev" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
@@ -42,19 +37,4 @@
   </a>
 </p>
 
-![Connect](https://your-image-url-here.com/connect.jpg)
-
-## ❤ Views and Followers
-<p align="left">
-  <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=olaleykhan">
-  </a>
-  <a href="https://github.com/olaleykhan?tab=followers">
-    <img src="https://img.shields.io/github/followers/olaleykhan?label=Followers&style=social" alt="GitHub Badge">
-  </a>
-  <a href="https://twitter.com/lekan_dev" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/lekan_dev?logo=twitter&style=for-the-badge" alt="lekan_dev">
-  </a>
-</p>
-
-![Followers](https://your-image-url-here.com/followers.jpg)
+![Footer](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
