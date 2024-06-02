@@ -1,3 +1,5 @@
+![Header](https://your-image-url-here.com)
+
 ### Hi there 👋, I'm Lekan
 #### A software engineer based in Lagos, Nigeria. Currently focused on frontend development and gradually transitioning to backend. Cheers!
 
@@ -11,6 +13,8 @@
 - 📫 Reach me at **analystabdulfatah@gmail.com**
 - ⚡ Fun fact: I love outdoor sports
 
+![About Me](https://your-image-url-here.com/about-me.jpg)
+
 ### Skills
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
@@ -18,11 +22,15 @@
 [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)](#)
 [![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](#)
 
+![Skills](https://your-image-url-here.com/skills.jpg)
+
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=olaleykhan&show_icons=true&theme=radical" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaleykhan&layout=compact&theme=radical" width="335">
 </p>
+
+![Stats](https://your-image-url-here.com/stats.jpg)
 
 ## Connect with Me
 <p align="left">
@@ -33,6 +41,8 @@
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
   </a>
 </p>
+
+![Connect](https://your-image-url-here.com/connect.jpg)
 
 ## ❤ Views and Followers
 <p align="left">
@@ -46,3 +56,5 @@
     <img src="https://img.shields.io/twitter/follow/lekan_dev?logo=twitter&style=for-the-badge" alt="lekan_dev">
   </a>
 </p>
+
+![Followers](https://your-image-url-here.com/followers.jpg)
