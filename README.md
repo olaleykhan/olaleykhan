@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/olaleykhan/olaleykhan/assets/53246916/442f72f6-2375-45b1-8164-e06d4670845e" alt="Olalekan: lekan.dev" style="width:100%;">
+  <img src="https://github.com/olaleykhan/olaleykhan/assets/53246916/ccf047ae-5275-413b-8268-d5e542ee88d9" alt="Olalekan: lekan.dev" style="width:100%;">
 </div>
 
 # Olalekan Abdulfatah
