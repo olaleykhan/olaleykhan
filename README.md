@@ -8,7 +8,7 @@
 
 About me: I really do write React, Vue, and Svelte. That is an advantage.
 <br/>
-Open to fullstack roles as I am a beast with ExpressJS
+Open to fullstack roles as I can choose to be a beast with ExpressJS/ TS?
 
 ### Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-639a30?style=flat&logo=twitter&logoColor=white)](https://twitter.com/lekan_dev)
