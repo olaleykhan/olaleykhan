@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/olaleykhan/olaleykhan/assets/53246916/ccf047ae-5275-413b-8268-d5e542ee88d9" alt="Olalekan: lekan.dev" style="width:100%;">
+  <img src="https://github.com/olaleykhan/olaleykhan/assets/53246916/ccf047ae-5275-413b-8268-d5e5broken" alt="Olalekan: sike" style="width:100%;">
 </div>
 
 # Olalekan Abdulfatah
@@ -13,8 +13,6 @@ Open to fullstack roles as I am a beast with ExpressJS
 ### Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-639a30?style=flat&logo=twitter&logoColor=white)](https://twitter.com/lekan_dev)
 [![Email](https://img.shields.io/badge/Email-639a30?style=flat&logo=gmail&logoColor=white)](mailto:analystabdulfatah@gmail.com)
-[![Website](https://img.shields.io/badge/Website-639a30?style=flat&logo=google-chrome&logoColor=white)](https://lekan.dev)
-[![Blog](https://img.shields.io/badge/Blog-639a30?style=flat&logo=hashnode&logoColor=white)](https://blog.lekan.dev)
 
 <div style="background-image: url('https://via.placeholder.com/1500x800'); padding: 20px;">
 
@@ -62,5 +60,5 @@ Open to fullstack roles as I am a beast with ExpressJS
 > Code is like humor. When you have to explain it, it’s bad.
 
 <div align="center">
-  <img src="https://github.com/olaleykhan/olaleykhan/assets/53246916/e6c7b3e0-34d6-4127-bb0b-59735b83e475" alt="Olalekan: lekan.dev" style="height:400px;">
+  <img src="https://github.com/olaleykhan/olaleykhan/assets/53246916/e6c7b3e0-34d6-4127-bb0b-59735b83e475" alt="Olalekan: sike" style="height:400px;">
 </div>
