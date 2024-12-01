@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/olaleykhan/olaleykhan/assets/53246916/ccf047ae-5275-413b-8268-d5e5broken" alt="Olalekan: sike" style="width:100%;">
+  <img src="https://github.com/olaleykhan/olaleykhan/assets/53246916/ccf047ae-5275-413b-8268-d5e5broken" alt="Olalekan: sike- Broken by Choice!" style="width:100%;">
 </div>
 
 # Olalekan Abdulfatah
